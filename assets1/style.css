@@ -246,10 +246,17 @@ ul li{
     width: 100%;
 }
 .crosal-size{
-    width: 106%;
+    width: 120%;
 }
-
-
+.wi-1{
+    width: 50% !important;
+}
+.wid-1{
+    width: 100% !important;
+}
+.widt-1{
+    width: 100% !important;
+}
 #input-box-one input {
     padding: 10px;
 } 
